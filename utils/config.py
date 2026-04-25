@@ -1,0 +1,7 @@
+BASE_URL = "https://www.saucedemo.com/"
+USERNAME = "standard_user"
+PASSWORD = "secret_sauce"
+FIRST_NAME = "QA"
+LAST_NAME = "Tester"
+POSTAL_CODE = "10001"
+PRODUCT_NAME = "Sauce Labs Backpack"
